@@ -8,3 +8,5 @@
 
 `npm install d3`
 `npm i --save-dev @types/d3`
+
+Then add the d3 value onto 'tsconfig.app.json/compilerOptions/types'
